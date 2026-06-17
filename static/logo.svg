@@ -1,0 +1,26 @@
+<svg width="470" height="120" viewBox="0 0 470 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="mailcraft">
+  <title>mailcraft</title>
+  <style>
+    .wm { fill: #6366f1; }
+    @media (prefers-color-scheme: dark) { .wm { fill: #818cf8; } }
+  </style>
+  <defs>
+    <linearGradient id="badge" x1="16" y1="16" x2="104" y2="104" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="0.55" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="16" y="16" width="88" height="88" rx="22" fill="url(#badge)"/>
+
+  <g stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="34" y="48" width="52" height="36" rx="8"/>
+    <path d="M38 53 L60 69 L82 53"/>
+  </g>
+
+  <path d="M82 24 L84.6 32.4 L93 35 L84.6 37.6 L82 46 L79.4 37.6 L71 35 L79.4 32.4 Z" fill="#ffffff"/>
+
+  <text class="wm" x="126" y="66" font-family="'Space Grotesk', 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5">mailcraft</text>
+  <text class="wm" x="128" y="90" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', monospace" font-size="12.5" font-weight="500" letter-spacing="3.1">OSINT EMAIL DISCOVERY</text>
+</svg>
