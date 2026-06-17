@@ -508,9 +508,6 @@
 			<div class="flex items-start justify-between gap-4">
 				<div>
 					<h1 class="display text-2xl font-bold tracking-tight text-[var(--text)]">mailcraft</h1>
-					<p class="mt-1 text-xs text-[var(--text-faint)]">
-						by <a href="https://notalex.sh" class="text-[var(--brand)] hover:underline">notalex.sh</a>
-					</p>
 				</div>
 				<div class="flex shrink-0 items-center gap-2">
 					<button

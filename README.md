@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="static/logo.svg" alt="mailcraft" width="430">
-
-<br>
+# mailcraft
 
 > Generate possible email addresses from personal information using common naming patterns, then check them against breach databases.
+
+![Type](https://img.shields.io/badge/TYPE-WEB-0369a1?style=for-the-badge&labelColor=0f172a)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-16a34a?style=for-the-badge&labelColor=0f172a)
 
 </div>
 
@@ -37,3 +38,9 @@ Select any address to see its scoring breakdown and run verification. Each addre
 - Verification requests are spaced out to stay friendly to upstream APIs.
 - The top 10 results can be checked at once, or every result sequentially with abort support.
 - Nothing is stored server-side; all state lives in the shareable URL.
+
+---
+
+<div align="center">
+  by <a href="https://notalex.sh">notalex.sh</a>
+</div>
