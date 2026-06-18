@@ -4,9 +4,6 @@
 
 > Generate possible email addresses from personal information using common naming patterns, then check them against breach databases.
 
-![Type](https://img.shields.io/badge/TYPE-WEB-0369a1?style=for-the-badge&labelColor=0f172a)
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-16a34a?style=for-the-badge&labelColor=0f172a)
-
 </div>
 
 ---
